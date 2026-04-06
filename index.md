@@ -22,7 +22,7 @@
 
 ## 编程与工程
 
-（暂无条目）
+- [[Claude-Code-必装Skills-摘要]] — 6个必装 Skills：Frontend Design、办公四件套、Web Access、PUA、Claude-mem、Skill-Creator
 
 ## 职业发展
 

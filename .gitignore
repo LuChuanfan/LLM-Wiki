@@ -11,3 +11,6 @@ Thumbs.db
 # Temp
 *.tmp
 ~$*
+
+# PDFs (论文留在本地，不推到 GitHub)
+*.pdf

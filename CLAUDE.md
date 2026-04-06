@@ -7,7 +7,8 @@
 ```
 raw/                    # 原始素材（只读，你不改这里的文件）
   articles/             # 网页文章、微信文章的 Markdown
-  papers/               # 论文 PDF
+  papers/mine/          # 用户自己发表的论文
+  papers/others/        # 参考文献、别人的论文
   notes/                # 用户自己写的笔记、想法
   misc/                 # 代码片段、截图、数据文件等
 wiki/                   # 你生成和维护的知识页面
